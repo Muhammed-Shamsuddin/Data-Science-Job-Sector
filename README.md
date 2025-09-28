@@ -49,7 +49,12 @@ The dataset contains job-related details such as job_title, salary_in_usd, work_
 
 DataScience_Job_Sector_Analysis.xlsx – Main Excel project with all analysis and dashboard.
 
+Dashboard.jpg
+
 README.md – Project documentation
-AUTHOR
+
+✨AUTHOR
+
 Mohammed Shamsuddin
+
 github(https://github.com/Muhammed-Shamsuddin)
