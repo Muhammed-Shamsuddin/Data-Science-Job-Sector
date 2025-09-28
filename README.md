@@ -10,11 +10,17 @@ The goal is to help professionals, students, and organizations understand the la
 The dashboard includes multiple KPIs and visual analyses, such as:
 
 📈 Total Job Records – Total number of job listings analyzed.
+
 💰 Average Salary (USD) – Mean salary across the data science industry.
+
 🏆 Highest Paying Job Titles – Top-paying positions based on average salary.
+
 🌍 Salary by Location – Comparison of average salaries across countries.
+
 📅 Salary by Year – Trend of salary changes over time.
+
 📊 Salary by Category – Distribution of salaries across different job categories and experience levels.
+
 🏢 Company Location vs. Employee Residence – Salary difference based on company location and where employees live.
 
 💡 Insights & Findings
